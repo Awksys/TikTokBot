@@ -1,18 +1,18 @@
-# TikTok Bot 
+# TikTok Bot
 
-Ce projet est un bot automatisé permettant de générer des videos musicales et de les publier sur TikTok. Il intègre diverses fonctionnalités de traitement vidéo et audio pour améliorer l'expérience utilisateur.
+This project is an automated bot that allows you to generate music videos and upload them to TikTok. It includes various video and audio processing features to enhance the user experience.
 
-## 🚀 Fonctionnalités
+## 🚀 Features
 
-- **Téléchargement automatique** des vidéos depuis YouTube et TikTok.
-- **Détection des battements** dans la musique pour ajouter des effets de flash.
-- **Ajout de titres et de transitions** pour améliorer la qualité des vidéos.
-- **Automatisation complète** du processus d'upload sur TikTok avec Selenium.
-- **Gestion des vidéos et des sons** pour éviter les doublons et optimiser la viralité.
+- **Automatic video downloading** from YouTube and TikTok.
+- **Beat detection** in music to add flash effects.
+- **Add titles and transitions** to enhance video quality.
+- **Full automation** of the uploading process on TikTok using Selenium.
+- **Video and sound management** to avoid duplicates and optimize virality.
 
-## 📦 Dépendances
+## 📦 Dependencies
 
-Avant de lancer le script, assure-toi d'avoir installé les bibliothèques suivantes :
+Before running the script, make sure to install the following libraries:
 
 ```bash
 pip install imageio numpy moviepy tiktokapipy asyncio opencv-python librosa selenium requests pytube pandas undetected-chromedriver chromedriver-autoinstaller
@@ -36,6 +36,6 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 
 Contributions are welcome! Open an issue or submit a pull request if you have ideas or improvements.
 
-## Disclaimer 
+## ⚠️ Disclaimer 
 
 This bot is not affiliated with TikTok. By using this tool, you agree to follow TikTok’s Terms of Service and understand that automated actions may result in account suspension. Use at your own risk, and ensure your actions comply with TikTok's Community Guidelines. The creators are not responsible for any consequences, including account bans or data loss. Use ethically and responsibly.
