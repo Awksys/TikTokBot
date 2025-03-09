@@ -4,7 +4,6 @@ This project is an automated bot that allows you to generate music videos and up
 
 ## 🚀 Features
 
-- **Automatic video downloading** from YouTube and TikTok.
 - **Beat detection** in music to add flash effects.
 - **Add titles and transitions** to enhance video quality.
 - **Full automation** of the uploading process on TikTok using Selenium.
